@@ -13,6 +13,7 @@ PortSwigger Web Security Academy lablarini tugatib, reportlarni shu yerda joylay
 ## Maqsad:
 Freelance vulnerability testing loyihalari olish.
 
-Telegram kanalim: https://t.me/myappsecportifolio
+Telegram kanalim:
+https://t.me/+alU057dWFhE4MmRi
 
 Open for freelance projects!
